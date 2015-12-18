@@ -1,0 +1,93 @@
+----item----
+version: 1
+id: {6F4715FE-44B2-4B05-B192-1D1BC012CD4A}
+database: core
+path: /sitecore/content/Applications/Content Editor/Ribbons/Chunks/Custom Chunk - Small/Small Drop Down Box
+parent: {0BE048B4-C455-4F8A-92AD-661360C56B6D}
+name: Small Drop Down Box
+master: {00000000-0000-0000-0000-000000000000}
+template: {53E2B718-D0F1-4AFA-A227-8D81C639B68A}
+templatekey: Small Drop Down Box
+
+----field----
+field: {631318AB-F31D-4034-8472-3D46B22238F3}
+name: Icon
+key: icon
+content-length: 39
+
+Applications/16x16/bullet_ball_blue.png
+----field----
+field: {791000D6-F141-4971-8B3A-4F56F79636E0}
+name: Items
+key: items
+content-length: 21
+
+|Item 1|Item 2|Item 3
+----field----
+field: {B9135CD9-A732-47E9-A8E4-083F568AD3C0}
+name: Click
+key: click
+content-length: 22
+
+customribbons:dropdown
+----field----
+field: {94CAC870-4996-49E3-8890-62DBA37CFD77}
+name: ID
+key: id
+content-length: 16
+
+SmallDropdownBox
+----version----
+language: en
+version: 1
+revision: 2c349cd6-ebad-4b41-9243-d5c8a039d394
+
+----field----
+field: {557B37A2-93C1-400B-8104-DFE2F634ABAF}
+name: Header
+key: header
+content-length: 18
+
+Small Dropdown Box
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151215T160808Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2c349cd6-ebad-4b41-9243-d5c8a039d394
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20151216T170700Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

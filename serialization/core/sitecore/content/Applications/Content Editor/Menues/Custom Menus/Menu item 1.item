@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {EA5C93D1-FE82-4FF1-84D5-9CD698ED5B17}
+database: core
+path: /sitecore/content/Applications/Content Editor/Menues/Custom Menus/Menu item 1
+parent: {5BFE0CAD-E63F-455D-B11C-E26C22553BDC}
+name: Menu item 1
+master: {00000000-0000-0000-0000-000000000000}
+template: {998B965E-6AB8-4568-810F-8101D60D0CC3}
+templatekey: Menu item
+
+----field----
+field: {861F1312-64F9-49E3-8880-8FA1082F98AA}
+name: Checkbox
+key: checkbox
+content-length: 1
+
+1
+----field----
+field: {335C6760-6C0E-4C6C-814C-A53D203F553E}
+name: Icon
+key: icon
+content-length: 31
+
+Applications/16x16/document.png
+----version----
+language: en
+version: 1
+revision: ccfc0ee4-fd00-4aeb-bd3c-6a0c4fd6f3d1
+
+----field----
+field: {9B72A62B-2775-423D-B17A-EC34A9F31AF8}
+name: Display name
+key: display name
+content-length: 11
+
+Menu Item 1
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151215T163711Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ccfc0ee4-fd00-4aeb-bd3c-6a0c4fd6f3d1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20151216T152337Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
